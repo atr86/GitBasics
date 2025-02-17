@@ -1,0 +1,5 @@
+This is my 1st code on git!
+Changes is the way of life
+Git helps to track these changes!
+
+This is the 1st change I am making.
